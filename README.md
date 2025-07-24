@@ -149,3 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for transparent data governance**
 
 > "The best security is shared security - when everyone knows their role in protecting data."
+
+---
+
+> **Note:** This repository is shared as-is. Please feel free to fork, adapt, and use without expectation of support or updates. Stewardship resumes when and if time permits.
