@@ -26,9 +26,6 @@ Future versions may include:
 
 These enhancements will extend the Visual Disclosure Ledger into a living system of record—quietly mapping, documenting, and stewarding technical ecosystems with dignity.
 
-To follow development or contribute with care, see the `enhancements/` folder (coming soon).
-
 ### July 2025
 - Refreshed README to reflect modular enhancements, future roadmap, and emotionally intelligent stewardship
 - Incorporated practical guidance from template library revisions and cross-referenced key dependencies
-- Deprecated legacy version (archived via Git history)
